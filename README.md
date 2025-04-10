@@ -28,6 +28,7 @@ Displays your name centered on the OLED when the button is pressed. Press again 
 ✅ ex2_scrolling_messages.py 
 
 Takes user input from the REPL and displays messages line by line. When the screen is full, older messages scroll up to show the newest at the bottom.
+Pressing the button empties the display
 
 ✅ ex3_dice_draw_on_oled.py 
 
